@@ -1,4 +1,4 @@
-const CACHE = "sunny-move-v1";
+const CACHE = "sunny-move-v2";
 const ASSETS = [
   "./",
   "./index.html",
@@ -9,10 +9,12 @@ const ASSETS = [
   "./css/style.css",
   "./js/main.js",
   "./manifest.json",
-  "./images/moto1.jpg",
-  "./images/moto2.jpg",
-  "./images/moto3.jpg",
-  "./images/moto4.jpg",
+  "./images/trotti1.jpg",
+  "./images/trotti2.jpg",
+  "./images/trotti3.jpg",
+  "./images/trotti4.jpg",
+  "./images/scooter1.jpg",
+  "./images/scooter2.jpg",
   "./images/solar1.jpg",
   "./images/solar2.jpg",
   "./images/beach.jpg",

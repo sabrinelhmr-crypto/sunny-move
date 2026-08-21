@@ -1,7 +1,7 @@
 {
-  "name": "Sunny Move - Location motos électriques solaires Mahdia",
+  "name": "Sunny Move - Location trottinettes et scooters électriques solaires Mahdia",
   "short_name": "Sunny Move",
-  "description": "Location de motos électriques chargées par énergie solaire à Mahdia, Tunisie.",
+  "description": "Location de trottinettes et scooters électriques chargés par énergie solaire à Mahdia, Tunisie.",
   "lang": "fr",
   "start_url": "./index.html",
   "scope": "./",
