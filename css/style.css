@@ -858,3 +858,13 @@ ul { list-style: none; }
 @media (min-width: 761px) and (max-width: 1024px) {
   .about-grid { grid-template-columns: 1fr; }
 }
+
+.logo-img {
+  width: 42px;
+  height: 42px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 0 0 2px rgba(255, 200, 0, .35);
+}
+
+.logo-img-footer { width: 38px; height: 38px; }
